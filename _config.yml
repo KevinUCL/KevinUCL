@@ -19,4 +19,38 @@ description              : "Kevin Missault's online home"
 url                      : https://kmissault.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/slide-code.png  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /images/first_image.png  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+
+# Social Sharing
+twitter:
+  username               : KMissault
+  
+  # Site Author
+author:
+  name             : "Kevin Missault"
+  avatar           : /images/ # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Open science, reproducible research, data champion, computational biology, proteomics, more omics, emacs, a lot of R, quite a bit of running, and parenting. <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Coffee', '#46b798', 'I3I39BB0');kofiwidget2.draw();</script>"
+  email            :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : kmissault
+  google_plus      :
+  keybase          : 
+  instagram        :
+  lastfm           :
+  linkedin         : Kevin Missault
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          : KMissault
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
