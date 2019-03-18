@@ -1,3 +1,22 @@
 theme: jekyll-theme-architect
 title: Welcome to the blog of immunology and R
 Description: We will talk about science but also about philosophy
+
+
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+locale                   : "en-GB"
+title                    : "~/"
+title_separator          : " | "
+name                     : "Kevin Missault"
+description              : "Kevin Missault's online home"
+url                      : https://kmissault.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : /assets/images/slide-code.png  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
