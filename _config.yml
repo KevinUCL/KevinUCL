@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Missault"
-  avatar           : "/docs/assets/images/431162_10151185985371337_1975264688_n.jpg"
+  avatar           : "assets/images/431162_10151185985371337_1975264688_n.jpg"
   bio              : "I am an amazing person."
   location         : "Brussels"
   email            : kevin.missault@uclouvain.be
