@@ -1,5 +1,5 @@
 ---
-permalink: /coucou/
+permalink: /about/
 title: "About the author"
 modified: 2019-03-19
 comments: false
