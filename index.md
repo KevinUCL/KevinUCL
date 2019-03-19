@@ -1,18 +1,3 @@
----
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
----
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KevinUCL/kmissault.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
