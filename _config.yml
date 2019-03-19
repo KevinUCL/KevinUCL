@@ -1,3 +1,3 @@
-theme: jekyll-theme-architect
+remote_theme: git://github.com/mmistakes/minimal-mistakes
 title: Welcome to the blog of immunology and R
 Description: We will talk about science but also about philosophy
