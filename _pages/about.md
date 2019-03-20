@@ -7,6 +7,9 @@ author_profile: true
 header:
    overlay_image: assets/images/dna-1811955-2.jpg
    overlay_filter: 0.3
+   actions:
+    - label: "More Info"
+      url: "github.com/kmissault"
 ---
 
 {% include toc %}
