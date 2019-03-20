@@ -1,5 +1,6 @@
 ---
 title:  "Welcome to my second post!"
+permalink: /post/first_post/
 tags:
   - 2nd test
   - Uncategorized
@@ -16,7 +17,6 @@ header:
       url: "https://github.com/kmissault"
 sidebar:
   nav: "posts"
-permalink: /_posts/second_post/
 ---
 
 ## First assay 
