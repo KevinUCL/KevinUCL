@@ -6,6 +6,8 @@ tags:
 toc: true
 toc_label: "ON THIS PAGE"
 toc_icon: "file-alt"
+sidebar:
+  nav: "docs"
 ---
 
 ## First assay 
