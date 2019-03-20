@@ -4,7 +4,7 @@ tags:
   - Layout
   - Uncategorized
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "ON THIS PAGE"
 toc_icon: "cog"
 ---
 
