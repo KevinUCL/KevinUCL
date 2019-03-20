@@ -20,7 +20,7 @@ title                    : "Kevin Missault's home online"
 title_separator          : "-"
 name                     : "Kevin Missault"
 description              : "An amazing website about R and philosophy"
-url                      : https://kmissault.github.io/kmissault
+url                      : https://kmissault.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/423148.jpg
