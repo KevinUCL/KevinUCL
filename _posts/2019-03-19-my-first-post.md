@@ -1,5 +1,6 @@
 ---
 title:  "Welcome to my first post!"
+permalink: /post/first_post/
 tags:
   - Layout
   - Uncategorized
@@ -8,7 +9,6 @@ toc_label: "ON THIS PAGE"
 toc_icon: "file-alt"
 sidebar:
   nav: "posts"
-permalink: /_posts/first_post/
 ---
 
 ## First assay 
