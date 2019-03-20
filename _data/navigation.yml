@@ -23,3 +23,5 @@ posts:
         url: /posts/first_post/
       - title: "3rd posts"
         url: /posts/third_post/
+      - title: "R"
+        url: /posts/R_lgatto/
