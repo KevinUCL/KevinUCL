@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to my second post!"
-permalink: /post/second_post/
+permalink: /posts/second_post/
 tags:
   - 2nd test
   - Uncategorized
