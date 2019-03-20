@@ -18,6 +18,6 @@ posts:
   - title: Posts
     children:
       - title: "2nd posts"
-        url: /posts/second_post/
+        url: /post/second_post/
       - title: "1st posts"
-        url: /posts/first_post/
+        url: /post/first_post/
