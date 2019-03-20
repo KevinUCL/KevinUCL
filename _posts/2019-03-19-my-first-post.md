@@ -7,7 +7,7 @@ toc: true
 toc_label: "ON THIS PAGE"
 toc_icon: "file-alt"
 sidebar:
-  nav: "docs"
+  nav: "posts"
 ---
 
 ## First assay 
