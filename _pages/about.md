@@ -10,9 +10,10 @@ header:
    actions:
     - label: "More Info"
       url: "https://github.com/kmissault"
+toc: true
+toc_label: "ON THIS PAGE"
+toc_icon: "file-alt"
 ---
-
-{% include toc %}
 
 ## Short bio
 
