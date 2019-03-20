@@ -14,8 +14,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-docs:
+posts:
   - title: Posts
     children:
       - title: "First-post"
-        url: /_posts/2019-03-19-my-first-post.md
+        url: /_posts/
