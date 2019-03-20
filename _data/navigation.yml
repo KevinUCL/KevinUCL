@@ -17,5 +17,5 @@ main:
 posts:
   - title: Posts
     children:
-      - title: "First-post"
+      - title: "All posts"
         url: /_posts/
