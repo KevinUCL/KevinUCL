@@ -16,6 +16,7 @@ header:
       url: "https://github.com/kmissault"
 sidebar:
   nav: "posts"
+permalink: /_posts/second_post/
 ---
 
 ## First assay 
