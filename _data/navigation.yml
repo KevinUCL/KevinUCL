@@ -17,5 +17,7 @@ main:
 posts:
   - title: Posts
     children:
-      - title: "All posts"
-        url: /_posts/
+      - title: "2nd posts"
+        url: /_posts/2019-03-20-second-post
+      - title: "1st posts"
+        url: /_posts/2019-03-19-my-first-post
