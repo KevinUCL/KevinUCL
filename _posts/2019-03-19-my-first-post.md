@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to my first post!"
-permalink: /post/first_post/
+permalink: /posts/first_post/
 tags:
   - Layout
   - Uncategorized
