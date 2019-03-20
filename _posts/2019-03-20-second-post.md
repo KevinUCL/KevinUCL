@@ -14,6 +14,8 @@ header:
   actions:
     - label: "More Info on Github repository"
       url: "https://github.com/kmissault"
+sidebar:
+  nav: "posts"
 ---
 
 ## First assay 
