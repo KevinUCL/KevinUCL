@@ -5,7 +5,7 @@ tags:
   - Uncategorized
 toc: true
 toc_label: "ON THIS PAGE"
-toc_icon: "cog"
+toc_icon: "file-alt"
 ---
 
 ## First assay 
