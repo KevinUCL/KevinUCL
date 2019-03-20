@@ -23,7 +23,7 @@ description              : "An amazing website about R and philosophy"
 url                      : "https://kmissault.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/423148.jpg"
+teaser                   : #"/assets/images/423148.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
