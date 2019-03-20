@@ -20,17 +20,17 @@ title                    : "Kevin Missault's home online"
 title_separator          : "-"
 name                     : "Kevin Missault"
 description              : "An amazing website about R and philosophy"
-url                      : https://kmissault.github.io
+url                      : "https://kmissault.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/423148.jpg
+teaser                   : "/assets/images/423148.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : disqus # "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : kmissault-github-io
+    shortname            : "kmissault-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -82,7 +82,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : KMissault
+  username               : "KMissault"
 facebook:
   username               :
   app_id                 :
@@ -109,11 +109,11 @@ author:
   avatar           : "assets/images/431162_10151185985371337_1975264688_n.jpg"
   bio              : "Open science, R, Immunology and teachning"
   location         : "Brussels"
-  email            : kevin.missault@uclouvain.be
+  email            : "kevin.missault@uclouvain.be"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kevin.missault@uclouvain.be
+      url: "mailto:kevin.missault@uclouvain.be"
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/kevin-missault-672005180/"
