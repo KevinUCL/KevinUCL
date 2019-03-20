@@ -21,3 +21,5 @@ posts:
         url: /posts/second_post/
       - title: "1st posts"
         url: /posts/first_post/
+      - title: "3rd posts"
+        url: /posts/third_post/
