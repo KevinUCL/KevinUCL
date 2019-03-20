@@ -9,7 +9,7 @@ header:
    overlay_filter: 0.3
    actions:
     - label: "More Info"
-      url: "github.com/kmissault"
+      url: "https://github.com/kmissault"
 ---
 
 {% include toc %}
