@@ -111,9 +111,6 @@ author:
   location         : "Brussels"
   email            : "kevin.missault@uclouvain.be"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kevin.missault@uclouvain.be"
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/kevin-missault-672005180/"
